@@ -1,0 +1,7 @@
+{
+  "name": "Chibi Sweetheart - 2D Kawaii Animation",
+  "description": "A cute 2D chibi sticker-style vertical animation celebrating playful love, featuring 24fps timeline playback, sound effects, floating hearts, and sticker capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
